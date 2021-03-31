@@ -26,8 +26,7 @@ A simple JS based App for restaurant app.
 - Webpack
 
 ## Demo Link
-No demo link yet
-<!-- http://akinkunmi.me/library/ -->
+ http://akinkunmi.me/restaurant-page/
 
 ## Contributing
 
