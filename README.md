@@ -13,8 +13,8 @@ A simple JS based App for restaurant app.
 ## Setup
 - Clone the project by running `git clone https://github.com/kunmi02/restaurant-page.git` on terminal or CMD
 - Run terminal or CMD from the project directory.
-- Run `npm install` if linters are required.
-- Run index.html in your Web Browser.
+-  Run `npm install`. If you do not have `npm` installed you can get it from [here](https://www.npmjs.com/).
+- Run `npm start` to lauch a local web server and open a tab in you Browser with the page.
 
 ## Built With
 
