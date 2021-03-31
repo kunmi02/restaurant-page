@@ -1,44 +1,6 @@
-import _ from 'lodash';
-import { home } from './home'
-import { menus } from './menu'
-import { contact } from './contact'
-
-// function component() {
-  // alert('Testing webpack');
-  // const element = document.createElement('div');
-// Lodash, now imported by this script
-  // element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-
-  // return element;
-//   const content = document.getElementById('content');
-//   content.innerHTML = ''
-//   const x = document.createElement("LI");
-//   const t = document.createTextNode("Home");
-//   x.onclick = () => {
-//     home()
-//   }
-//   x.appendChild(t);
-//   content.appendChild(x);
-
-//   const x1 = document.createElement("LI");
-//   const menu = document.createTextNode("Menu");
-//   x1.onclick = () => {
-//     menus()
-//   }
-//   x1.appendChild(menu);
-//   content.appendChild(x1);
-
-//   const x2 = document.createElement("LI");
-//   const t2 = document.createTextNode("Contact");
-//   x2.onclick = () => {
-//     contact()
-//   }
-//   x2.appendChild(t2);
-//   content.appendChild(x2);
-
-// }
-
-// document.body.appendChild(component());
+import home from './home';
+import menus from './menu';
+import contact from './contact';
 
 const mainPage = (container) => {
   const createTab = (key) => {

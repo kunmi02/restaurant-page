@@ -16,4 +16,4 @@ const menus = (container) => {
   tabFactory(container).appendChild(obj);
 };
 
-export { menus };
+export { menus as default };

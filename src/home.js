@@ -9,10 +9,10 @@ const home = (container) => {
       {
         title: 'Local Food Made with Passion',
         body: 'Have you been craving for the best local Amala made with passion and comes out with the local flavor?, Dont go far. We dy here',
-      }
+      },
     ],
   };
   tabFactory(container).appendChild(obj);
 };
 
-export { home };
+export { home as default };
