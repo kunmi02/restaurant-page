@@ -1,6 +1,8 @@
 import home from './home';
 import menus from './menu';
 import contact from './contact';
+import styles from './assets/styles.scss'
+
 
 const mainPage = (container) => {
   const createTab = (key) => {
