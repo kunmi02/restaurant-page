@@ -16,7 +16,8 @@
     "eol-last": "off",
     "arrow-parens": "off",
     "no-use-before-define":"off",
-    "no-loop-func": "off"
+    "no-loop-func": "off",
+    "no-unused-vars": "off"
   },
   "ignorePatterns": [
     "dist/",
